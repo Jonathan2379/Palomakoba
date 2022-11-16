@@ -12,7 +12,7 @@ fonte: https://palomakoba.unir.br/pagina/exibir/17780
 Finalizei as disciplinas de Desenvolvimento na Plataforma Android 1 ministrada pela professora: Dra. Liliane;
 E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas Marques.
 
-##Como encerramento das disciplinas ministradas, foi proposta como tarefa final a ser desenvolvida o app Pagamento de Compras
+## Como encerramento das disciplinas ministradas, foi proposta como tarefa final a ser desenvolvida o app Pagamento de Compras
 
 ## Assista ao vídeo do AppCompras - Modulo de Desenvolvimento na plataforma Android I:
 
