@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppCompras</string>
+    <string name="app_name1">Mercado</string>
+    <string name="titulo">Escolha seu pedido</string>
+
+    <string name="pedidoArroz">Arroz R$ 3,80</string>
+    <string name="pedidoFeijao">Feijão R$ 4,80</string>
+    <string name="pedidoMacarrao">Macarrão R$ 3,00</string>
+    <string name="pedidoPure">Pure R$ 2,00</string>
+    <string name="pedidoBisteca">Bisteca R$ 6,00</string>
+    <string name="pedidoSalada">Salada R$ 1,55</string>
+
+    <string name="valor">Valor</string>
+    <string name="btnTotal">Total</string>
+
+    <string name="desconto">Algum desconto?</string>
+
+    <string name="semDesconto">Sem Desconto</string>
+    <string name="cincoPorcento">5%</string>
+    <string name="dezPorcento">10%</string>
+    <string name="quinzePorcento">15%</string>
+
+    <string name="ValorPago">Valor pago pelo cliente</string>
+    <string name="btnEfetuarPagamento">Efetuar Pagamento</string>
+
+
+</resources>

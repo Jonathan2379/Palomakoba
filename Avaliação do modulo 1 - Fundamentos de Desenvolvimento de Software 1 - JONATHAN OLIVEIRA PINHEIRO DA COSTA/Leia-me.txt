@@ -1,0 +1,1 @@
+Os prints são uma sequência crescente da tela do prompt de comando. Primeiro a execução do merge e depois o rebase. A pasta git_test apresenta os blocos utilizados como arquivo exemplo pedido no exercicio.
