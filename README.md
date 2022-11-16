@@ -12,19 +12,17 @@ fonte: https://palomakoba.unir.br/pagina/exibir/17780
 Finalizei as disciplinas de Desenvolvimento na Plataforma Android 1 ministrada pela professora: Dra. Liliane;
 E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas Marques.
 
-## Como encerramento das disciplinas ministradas, foi proposta como tarefa final a ser desenvolvida o app Pagamento de Compras
+## Como encerramento das disciplinas ministradas, foram propostas como tarefas finais a serem desenvolvidas os aplicativos de Pagamento de Compras e um aplicativo ultilizando a API do Google maps
 
 ## Assista ao vídeo do AppCompras - Modulo de Desenvolvimento na plataforma Android I:
 
 1) AppMercado
-## Assista ao vídeo
 
 [![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoAppMercado.PNG)](https://www.youtube.com/watch?v=e2nM0fEMUgM)
 
 ## Assista ao vídeo do MyMap - Modulo de Desenvolvimento na plataforma Android II:
 
 2) MyMap
-## Assista ao vídeo
 
 [![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoMyMap.PNG)](https://www.youtube.com/watch?v=PQuV48fo1kc)
 
