@@ -19,5 +19,5 @@ E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas M
 3) AppMercado
 ## Assista ao vídeo
 
-[![pagamentocomprafoto]()](https://www.youtube.com/watch?v=e2nM0fEMUgM)
+[![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoAppMercado.PNG)](https://www.youtube.com/watch?v=e2nM0fEMUgM)
 
