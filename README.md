@@ -24,7 +24,7 @@ E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas M
 
 2) MyMap
 
-[![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoMyMap.PNG)](https://www.youtube.com/watch?v=PQuV48fo1kc)
+[![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoMyMap.PNG)](https://youtu.be/Y3YjPiOLSe0)
 
 
 # Tecnologias utilizadas
