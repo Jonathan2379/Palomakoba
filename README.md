@@ -18,13 +18,13 @@ E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas M
 
 1) AppMercado
 
-[![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoAppMercado.PNG)](https://www.youtube.com/watch?v=e2nM0fEMUgM)
+[![pagamentocomprafoto](https://user-images.githubusercontent.com/111090408/202780232-b5436994-b1c1-4c94-9ed6-6043c7902acd.PNG)](https://www.youtube.com/watch?v=e2nM0fEMUgM)
 
 ## Assista ao vídeo do MyMap - Modulo de Desenvolvimento na plataforma Android II:
 
 2) MyMap
 
-[![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoMyMap.PNG)](https://youtu.be/Y3YjPiOLSe0)
+[![pagamentocomprafoto](https://user-images.githubusercontent.com/111090408/202780239-444b9d92-4c39-4f7a-8f00-3f29b112b312.PNG)](https://youtu.be/Y3YjPiOLSe0)
 
 
 # Tecnologias utilizadas
